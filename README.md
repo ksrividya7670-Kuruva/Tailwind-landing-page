@@ -18,7 +18,7 @@ This project is a modern landing page built using HTML and Tailwind CSS. It incl
 
 * HTML5
 * Tailwind CSS
-* Ionicons
+ 
 
 ## Project Structure
 
@@ -30,9 +30,9 @@ This project is a modern landing page built using HTML and Tailwind CSS. It incl
 
 ### 1. Clone the Repository
 
-```bash
+ bash
 git clone <repository-url>
-```
+ 
 
 ### 2. Open the Project
 
