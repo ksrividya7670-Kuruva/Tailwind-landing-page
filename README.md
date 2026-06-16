@@ -1,4 +1,4 @@
- # Tailwind Hero Landing Page
+  # Tailwind Hero Landing Page
 
 ## Overview
 
@@ -18,7 +18,6 @@ This project is a modern landing page built using HTML and Tailwind CSS. It incl
 
 * HTML5
 * Tailwind CSS
- 
 
 ## Project Structure
 
@@ -26,12 +25,8 @@ This project is a modern landing page built using HTML and Tailwind CSS. It incl
 ├── style.css (optional)
 └── README.md
 
-## Getting Started
+ 
 
-### 1. Clone the Repository
-
- bash
-git clone <repository-url>
  
 
 ### 2. Open the Project
@@ -52,21 +47,8 @@ The project uses Tailwind CSS via CDN:
 <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
  
 
-## Screens Included
+ 
 
-* Navigation Bar
-* Hero Section
-* Tasks Card
-* Project Status Card
-* Team Activity Card
-* Floating Chat Button
-
-## Future Improvements
-
-* Mobile responsiveness
-* Dark mode support
-* Interactive animations
-* Backend integration
-* User authentication
+ 
 
  
